@@ -13,4 +13,4 @@ Able to parse and filter data based on user passed query.
 - Supports filtering for any `object_key` with any user-defined data.
 
 ## Demo Video
-<video src="qb.mp4" controls>
+<video width="650px" src="https://github.com/07prajwal2000/Dynamic-Query-Parser-and-Filter/assets/54446909/4d3e5731-6acb-45be-a26d-50412aa9b691" controls>
